@@ -3457,7 +3457,7 @@ h2 {
     border-radius: 30px !important;
     width: 1150px !important;
     height: 480px;
-    gap: px !important;
+    gap:20 px !important;
     margin: auto;
     margin-top: 30px;
     background-color: #7913e5;
@@ -3617,7 +3617,7 @@ li:hover {
 
 .crd16 {
     gap: 10px !important;
-    margin-left: 350px;
+    margin-left: 250px;
     cursor: pointer;
 }
 
