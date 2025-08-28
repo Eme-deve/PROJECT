@@ -1069,7 +1069,8 @@ li:hover {
     }
 
     .get7 {
-        margin-left: 40px;
+        justify-content: center;
+        /* margin-left: 40px; */
     }
 
     .get8 {
@@ -1158,10 +1159,14 @@ li:hover {
         font-size: 20px !important;
     }
     
+    .nio{
+        /* justify-content: center !important; */
+    }
     .crd01 {
         width: 380px !important;
         margin: auto !important;
         top: 10%;
+        justify-content: center !important;
     }
 
     .img12 {
@@ -1265,6 +1270,7 @@ li:hover {
 
     .crd07 {
         flex-direction: column;
+        justify-content: center;
         width: 95% !important;
         height: 70%;
         padding: 20px;
@@ -1285,7 +1291,7 @@ li:hover {
     }
 
     .img18 {
-        width: 300px !important;
+        width: 320px !important;
         margin-left: 20px !important;
         margin-top: 37px !important;
     }
@@ -1298,6 +1304,7 @@ li:hover {
 
     .crd09 {
         flex-direction: column-reverse;
+        justify-content: center;
         padding: 0px 20px;
     }
 
@@ -1332,6 +1339,7 @@ li:hover {
 
     .crd14 {
         flex-direction: column !important;
+        justify-content: center;
         padding: 100px 20px;
     }
 
@@ -1486,6 +1494,10 @@ li:hover {
         justify-content: space-between;
     }
 
+    .get7{
+        justify-content: center;
+    }
+
     .get8 {
         position: absolute;
         bottom: -60%;
@@ -1534,6 +1546,7 @@ li:hover {
 
     .get10 {
         flex-direction: column;
+        justify-content: center;
         margin: auto !important;
         margin-top: 600px !important;
     }
@@ -1567,6 +1580,7 @@ li:hover {
 
     .nio{
         flex-direction: column !important;
+        justify-content: center;
     }
     .crd01 {
         width: 500px !important;
@@ -1667,6 +1681,7 @@ li:hover {
         margin-top: 1600px;
         display: flex;
         flex-direction: column !important;
+        justify-content: center;
     }
 
     .sec3 h3 {
@@ -1677,6 +1692,7 @@ li:hover {
 
     .crd07 {
         flex-direction: column;
+        justify-content: center;
         width: 80% !important;
         height: 80%;
         padding: 20px;
@@ -1700,7 +1716,7 @@ li:hover {
     }
 
     .img18 {
-        width: 360px !important;
+        width: 380px !important;
         margin-left: 100px !important;
         margin-top: 44px !important;
     }
@@ -1718,6 +1734,7 @@ li:hover {
 
     .crd09 {
         flex-direction: column-reverse;
+        justify-content: center;
     }
 
     .crd10 {
@@ -1752,6 +1769,7 @@ li:hover {
 
     .crd14 {
         flex-direction: column !important;
+        justify-content: center;
         padding: 100px 20px;
     }
 
@@ -1908,7 +1926,8 @@ li:hover {
     }
 
     .get7{
-        margin-left: 200px;
+        justify-content: center;
+        /* margin-left: 200px; */
     }
 
     .get8 {
@@ -1959,6 +1978,7 @@ li:hover {
 
     .get10 {
         flex-direction: column;
+        justify-content: center;
         margin: auto !important;
         margin-top: 600px !important;
     }
@@ -2102,6 +2122,7 @@ li:hover {
 
     .crd07 {
         flex-direction: column;
+        justify-content: center;
         width: 80% !important;
         height: 80%;
         padding: 20px;
@@ -2125,7 +2146,7 @@ li:hover {
     }
 
     .img18 {
-        width: 360px !important;
+        width: 380px !important;
         margin-left: 100px !important;
         margin-top: 44px !important;
     }
@@ -2143,6 +2164,7 @@ li:hover {
 
     .crd09 {
         flex-direction: column-reverse;
+        justify-content: center;
         
     }
 
@@ -2163,6 +2185,7 @@ li:hover {
 
     .crd12 {
     flex-wrap: wrap;
+    justify-content: center;
     margin-left: 20px !important;
     gap: 20px !important;
     padding-top: 20px;
@@ -2180,6 +2203,7 @@ li:hover {
 
     .crd14 {
         flex-direction: column !important;
+        justify-content: center;
         padding: 100px 20px;
     }
 
