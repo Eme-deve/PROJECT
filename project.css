@@ -1379,6 +1379,10 @@ li:hover {
     footer{
         height: 165vh !important;
     }
+
+    body{
+        width: 100%;
+    }
 }
 
 
