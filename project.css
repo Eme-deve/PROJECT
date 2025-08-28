@@ -3457,7 +3457,7 @@ h2 {
     border-radius: 30px !important;
     width: 1150px !important;
     height: 480px;
-    gap:20 px !important;
+    gap:30px !important;
     margin: auto;
     margin-top: 30px;
     background-color: #7913e5;
@@ -3617,13 +3617,13 @@ li:hover {
 
 .crd16 {
     gap: 10px !important;
-    margin-left: 250px;
+    margin-left: 150px;
     cursor: pointer;
 }
 
 .text13 {
     font-size: 10px;
-    padding-left: 250px;
+    padding-left: 150px;
     text-align: right;
     margin-top: 20px;
     cursor: pointer;
@@ -3631,7 +3631,7 @@ li:hover {
 
 .text14 {
     font-size: 15px;
-    padding-left: 300px;
+    padding-left: 200px;
     text-align: right;
     margin-top: 30px;
     cursor: pointer;
