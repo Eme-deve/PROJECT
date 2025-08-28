@@ -3457,12 +3457,15 @@ h2 {
     border-radius: 30px !important;
     width: 1150px !important;
     height: 480px;
-    gap:30px !important;
+    gap:px !important;
     margin: auto;
     margin-top: 30px;
     background-color: #7913e5;
 }
 
+.nio{
+    gap: 30px !important;
+}
 .text008 {
     font-size: 35px;
     font-weight: bolder;
