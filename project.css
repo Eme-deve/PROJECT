@@ -6,6 +6,7 @@
 
 body {
     background-color: #f2f7f8;
+    width: 100% !important;
 }
 
 .head {
@@ -1374,6 +1375,9 @@ li:hover {
         margin-left: 20px !important;
         margin-top: -50px !important;
         font-size: 13px;
+    }
+    footer{
+        height: 165vh !important;
     }
 }
 
