@@ -3623,7 +3623,7 @@ li:hover {
 
 .text13 {
     font-size: 10px;
-    padding-left: 150px;
+    padding-left: 100px;
     text-align: right;
     margin-top: 20px;
     cursor: pointer;
@@ -3631,7 +3631,7 @@ li:hover {
 
 .text14 {
     font-size: 15px;
-    padding-left: 200px;
+    padding-left: 100px;
     text-align: right;
     margin-top: 30px;
     cursor: pointer;
@@ -3646,7 +3646,7 @@ li:hover {
 .hor {
     color: grey;
     margin: -80px 200px !important;
-    width: 200px;
+    /* width: 200px !important; */
 }
 
 
