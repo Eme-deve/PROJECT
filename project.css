@@ -2798,21 +2798,21 @@ li:hover {
         gap: 60px;
     }
 
-    .crd01, .crd02, .crd03, .crd04, .crd05, .crd06 {
+    /* .crd01, .crd02, .crd03, .crd04, .crd05, .crd06 {
         width: 100% !important;   /* let them auto-size */
         max-width: 550px;         /* don’t get too large */
         margin-left: 0 !important;
         margin-right: 0 !important;
-        flex-direction: row !important; /* side by side content */
+        flex-direction: row !important; side by side content
         align-items: center;
-    }
+    } */
 
     .crd01 img, .crd02 img, .crd03 img,
     .crd04 img, .crd05 img, .crd06 img {
-        position: static !important; /* reset absolute offsets */
-        width: 250px !important;
+        position: static !important; reset absolute offsets
+        /* width: 250px !important;
         margin-left: 20px;
-    }
+    } */
 
     /* Section 3 layout back to row */
     .sec3 {
