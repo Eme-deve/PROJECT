@@ -3466,6 +3466,8 @@ h2 {
 .nio{
     gap: 30px !important;
 }
+
+
 .text008 {
     font-size: 35px;
     font-weight: bolder;
@@ -3578,7 +3580,7 @@ footer {
 }
 
 .crd12 {
-    margin-left: 220px;
+    margin-left: 180px;
     gap: 80px !important;
     padding-top: 20px;
     cursor: pointer;
