@@ -6,7 +6,7 @@
 
 body {
     background-color: #f2f7f8;
-    width: 100% !important;
+    /* width: 100% !important; */
 }
 
 .head {
@@ -1389,7 +1389,7 @@ li:hover {
     }
 
     body{
-        width: 100%;
+        /* width: 100%; */
     }
 }
 
